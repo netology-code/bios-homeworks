@@ -1,5 +1,7 @@
 # Домашнее задание к занятию 4.3. Функции и области видимости.
 
+Для выполнения домашнего задания скачайте приложенный файл DZ4_3.playground и следуйте инструкциям в самом файле.
+
 Чтобы успешно выполнить это домашнее задание, необходимо усвоить следующие темы:
  * [Коллекции eng.](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
  * [Коллекции  рус.](https://swiftbook.ru/content/languageguide/collection-types/)
