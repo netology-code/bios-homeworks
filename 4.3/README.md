@@ -1,12 +1,12 @@
 # Домашнее задание к занятию 4.3. Функции и области видимости.
 
 Чтобы успешно выполнить это домашнее задание, необходимо усвоить следующие темы:
- * [Коллекции eng.] (https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
- * [Коллекции  рус.] (https://swiftbook.ru/content/languageguide/collection-types/)
- * [Управление потоком eng.] https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
- * [Управление потоком рус.] (https://swiftbook.ru/content/languageguide/control-flow/)
- * [Функции eng.] (https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
- * [Функции рус.] (https://swiftbook.ru/content/languageguide/functions/)
+ * [Коллекции eng.](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
+ * [Коллекции  рус.](https://swiftbook.ru/content/languageguide/collection-types/)
+ * [Управление потоком eng.](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
+ * [Управление потоком рус.](https://swiftbook.ru/content/languageguide/control-flow/)
+ * [Функции eng.](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
+ * [Функции рус.](https://swiftbook.ru/content/languageguide/functions/)
 
 ### Задача 1
 В данной задаче Вы тренируетесь Добавлять и Удалять значения в **Хранилище (массив)** при помощи двух функций, которые Вам и нужно реализовать. Функции принимают значение, но ничего не возвращают.
