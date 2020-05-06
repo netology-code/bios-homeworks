@@ -2,7 +2,6 @@
 
 ## Материал для дополнительного изучения
 
-Книги
 1. https://books.apple.com/ru/book/intro-to-app-development-with-swift/id1118575552
 1. https://books.apple.com/ru/book/app-development-with-swift/id1219117996
 1. [Книга от команды мега гуру обучения Рея Вендерлиха](https://store.raywenderlich.com/products/swift-apprentice)
