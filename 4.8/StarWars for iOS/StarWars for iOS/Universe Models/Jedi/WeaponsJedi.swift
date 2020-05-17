@@ -8,16 +8,16 @@
 
 import Foundation
 
-struct Bomb: Weapons {
-    var name: String = "Lazer Blaster"
+class Bomb: Weapons {
+    var name: String = "Bomb"
     var damage: Int = 100
     var rateOfFire: Int = 2
     var ammunition: Int = 2
 }
 
-struct LazerBlaster: Weapons {
+class LazerBlaster: Weapons {
     var name: String = "Lazer Blaster"
     var damage: Int = 10
     var rateOfFire: Int = 60
-    var ammunition: Int = 100
+    var ammunition: Int = 10
 }

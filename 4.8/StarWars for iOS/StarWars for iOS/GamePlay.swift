@@ -25,16 +25,22 @@ class GamePlay {
         let xWingPoint = Point.generate()
         let xWing = XWing(coordinate: xWingPoint)
         xWing.shootHandler = space
-                
         space.add(object: xWing)
         
-        let radarPoint = Point.generate()
-        let radar = Radar(coordinate: radarPoint)
-                
-        radar.datasource = space
-        radar.observer = xWing
-        radar.toggle()        
-        space.add(object: radar)
+        var radarPoint = Point.generate()
+        
+        let radarJedi = Radar(coordinate: radarPoint)
+        radarJedi.datasource = space
+        radarJedi.observer = xWing
+        radarJedi.toggle()
+        space.add(object: radarJedi)
+        
+        radarPoint = Point.generate()
+        let radarEmpire = Radar(coordinate: radarPoint)
+        radarEmpire.datasource = space
+        radarEmpire.observer = xWing
+        radarEmpire.toggle()
+        space.add(object: radarEmpire)
     }
     
     deinit {

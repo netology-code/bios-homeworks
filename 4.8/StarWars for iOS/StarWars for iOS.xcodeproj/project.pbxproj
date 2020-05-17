@@ -94,11 +94,11 @@
 		2B61289E238407F100331477 /* Universe Models */ = {
 			isa = PBXGroup;
 			children = (
+				2B6128A4238407F100331477 /* Fraction.swift */,
 				2B6128A7238407F100331477 /* Empire */,
 				2B6128A0238407F100331477 /* Jedi */,
 				2B61289F238407F100331477 /* Space.swift */,
 				2B6128A3238407F100331477 /* Weapons.swift */,
-				2B6128A4238407F100331477 /* Fraction.swift */,
 				2B6128A5238407F100331477 /* CoordinatSystem.swift */,
 				2B6128A6238407F100331477 /* Radar.swift */,
 				2B6128AA238407F100331477 /* Starships.swift */,
