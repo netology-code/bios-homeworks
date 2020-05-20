@@ -16,8 +16,7 @@
 ## Как искать информацию
 1. [Дайджест](https://habr.com/ru/users/digitalecosystems/posts/)
 1. [Про язык на вики](https://en.wikipedia.org/wiki/Swift_(programming_language))
-от Алексея Бардина:
-https://developer.apple.com/documentation/
+
 
 ## Ссылки для BIOS-4
 
