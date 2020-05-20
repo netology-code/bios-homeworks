@@ -7,10 +7,17 @@
 1. [Книга от команды мега гуру обучения Рея Вендерлиха](https://store.raywenderlich.com/products/swift-apprentice)
 1. [Beginning programming with Swift](https://store.raywenderlich.com/products/swift-apprentice)
 1. [Официальная “методичка” по языку Swift](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+1. [Apple Developer Documentation](https://developer.apple.com/documentation/)
 1. [Перевод официальной “методички”](https://swiftbook.ru/content/languageguide/)
 1. [Самый популярный сайт, на котором программисты делятся опытом (вопрос/ответ)](https://stackoverflow.com)
 1. [Блог про iOS разработку](https://habr.com/ru/hub/ios_dev/)
 1. [Подробный гайд по стилю кодинга](https://github.com/raywenderlich/swift-style-guide) (рекомендую сразу начинать изучать этот гайд и применять при выполнении домашних работ)
+
+## Как искать информацию
+1. [Дайджест](https://habr.com/ru/users/digitalecosystems/posts/)
+1. [Про язык на вики](https://en.wikipedia.org/wiki/Swift_(programming_language))
+от Алексея Бардина:
+https://developer.apple.com/documentation/
 
 ## Ссылки для BIOS-4
 
@@ -23,4 +30,7 @@
 1. [Видео про замыкания](https://www.youtube.com/watch?v=rpRQ-S7LJOk)
 
 ## Ссылки для BIOS-5
-1. [Описание типов данных](https://github.com/netology-code/bios-homeworks/blob/master/Materials/%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf
+1. [Описание типов данных](https://github.com/netology-code/bios-homeworks/blob/master/Materials/%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)
+1. [Сайт для тренировки ваших программистерских навыков](https://www.codewars.com)
+
+
