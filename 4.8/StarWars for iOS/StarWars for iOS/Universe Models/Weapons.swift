@@ -20,16 +20,17 @@ enum WeaponsError: Error {
     case isEmpty
 }
 
-protocol Weapons {
+protocol Weapons: AnyObject {
     var name: String { get }
     var damage: Int { get }
 //    var distance: Int { get }
     var ammunition: Int { get set }
-    mutating func fire() throws
+    
+    func fire() throws
 }
 
 extension Weapons {
-    mutating func fire() throws {
+    func fire() throws {
         guard ammunition > 0 else {
             print("\(name) Нет патронов!")
             throw WeaponsError.isEmpty

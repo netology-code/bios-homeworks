@@ -28,6 +28,10 @@ extension Starship where Self: Armed {
     }
 }
 
+enum StarshipError: Error {
+    case carryingFull
+}
+
 // MARK: - Starship Base
 
 class StarshipImp: Starship, Shooting {
@@ -64,12 +68,8 @@ class StarshipImp: Starship, Shooting {
     // MARK: - Properties
     
     func fire(to coordinate: Point) throws {
-        guard
-            canShoot,
-            var weapon = weapons.first(where: { $0.ammunition > 0 } )
-        else {
-            return
-        }
+        guard let weapon = weapons.first else { return }
+        
         try weapon.fire()
         shootHandler?.fire(from: weapon, to: coordinate)
     }
